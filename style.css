@@ -135,10 +135,9 @@ button {
   padding-bottom: 5rem;
 }
 .point{
-  width: 50%;
+  width: 80%;
   padding-top: 5rem;
-  margin-right: 10rem;
-
+  margin-inline: auto;
   padding-bottom: 5rem;
 }
 .star {
